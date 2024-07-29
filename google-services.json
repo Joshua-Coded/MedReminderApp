@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961024259822",
+    "project_id": "medapp-f09bc",
+    "storage_bucket": "medapp-f09bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961024259822:android:4d8a74c69364ff8e0325ff",
+        "android_client_info": {
+          "package_name": "com.theo.medapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcfiNGoYUcjr713BbSWP9wiuFIdAwvH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
